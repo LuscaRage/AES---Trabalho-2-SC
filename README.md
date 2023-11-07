@@ -12,7 +12,7 @@ Aqui foi pedido para implementar cifração e decifração AES de forma que foss
 ```
 python AES.py
 ```
-2. Ensira a mensagem a ser criptografada caso tenha escolhido criptografar ou o criptograma a ser descriptografado caso tenha escolhido descriptografar. Exemplo
+2. Ensira a mensagem a ser criptografada caso tenha escolhido criptografar ou o criptograma a ser descriptografado caso tenha escolhido descriptografar. Exemplo:
 ```
 o que eu bebi por voce da pra encher um navio e nao teve barril que me fez esquecer o que eu bebi por voce nunca artista bebeu nem pirata bebeu nem ninguem vai beber o que eu bebi por voce quase sempre era ruim e bem antes do fim eu ja tava a merce o que eu bebi por voce me fazia tao mal que ja era normal acordar no bide cada dono de boteco e catador de lata agora te sorri agradecido se seu plano era contra o meu figado meu bem, voce foi bem sucedido parabens pra voce cada dono de boteco e catador de lata agora te sorri agradecido se seu plano era contra o meu figado meu bem, voce foi bem sucedido parabens pra voce.
 ```
