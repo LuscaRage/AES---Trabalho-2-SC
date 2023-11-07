@@ -26,7 +26,7 @@ ou
 ```
 qlGpC7kftDZNHViq
 ```
-4. Escolha o número de rodadas (padrão é 10, e também é o número de rodadas do criptograma exemplo)
+4. Escolha o número de rodadas (padrão é 10, que também é o número de rodadas do criptograma exemplo).
 
 ```
 10
